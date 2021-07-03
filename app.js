@@ -1,4 +1,4 @@
-//  chapter 38-44 assignments
+//  chapter 38-42 assignments
 
 /* Task 1 Write a custom function power ( a, b ), to calculate the value of 
 a raised to b.*/
